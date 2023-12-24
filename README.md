@@ -1,4 +1,6 @@
-  # Filtragem e Classificacao MySQL 🐬
+# Filtragem e Classificacao MySQL 🐬
+
+https://github.com/luishenriquebk/mysql_filtragem_classificacao/assets/102004702/3cfabdfa-25e2-4363-9b56-90e7a0f9d32b
 
 Este repositório contém atividades realizadas no MySQL para praticar conceitos de classificação e filtragem entre os registros de uma banco de dados no MySQL.
 #### Link do projeto: 
